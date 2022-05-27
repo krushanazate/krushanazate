@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @krushna Narayan Zate
+- 👀 I’m interested in Software Engineering...
+- 🌱 I’m currently learning HTML CSS Javascript React.js...
+- 📫 How to reach me krushnazate6@gmail.com...
+
+<!---
+krushanazate/krushanazate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
